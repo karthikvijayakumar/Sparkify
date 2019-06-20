@@ -51,10 +51,10 @@ The best model was chosen on the basis of F1 Score that gives equal importance t
 
 |Metric|Value|
 |---|---|
-|F1 score| 0.46154 |
-|Precision| 0.6
-|Recall|0.375|
-|Accuracy| 0.7742 |
+|F1 score| 0.714286 |
+|Precision| 0.83333
+|Recall|0.625|
+|Accuracy| 0.870968|
 
 ## Blog post
 
